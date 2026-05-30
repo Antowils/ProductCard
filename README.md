@@ -161,8 +161,11 @@ Change the button background color during hover, Save the file and execute it in
 </html>
 ```
 ## OUTPUT:
-image-1.png
-image.png
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+
 
 
 

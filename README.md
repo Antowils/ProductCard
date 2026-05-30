@@ -11,7 +11,7 @@ Create an HTML file named productcard.html.
 Define the basic HTML structure using <html>, <head>, and <body> tags.
 
 ## Step 3:
-Create a folder named index.html in the app folder.
+Create a file named index.html in the app folder.
 
 ## Step 4:
 Apply CSS styling for the webpage background, card layout, rounded corners, spacing, and alignment.

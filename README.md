@@ -159,9 +159,10 @@ Change the button background color during hover, Save the file and execute it in
 
 </body>
 </html>
-# OUTPUT:
-![Product Card Output 1](image-1.png)
-![Product Card Output 2](image-2.png)
+## OUTPUT:
+image-1.png
+image.png
+
 
 
 # RESULT:

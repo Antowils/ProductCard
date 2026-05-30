@@ -1,4 +1,4 @@
-# Ex.05 Book Front Cover Page Design
+# ProductCard
 # Date: 30-05-2026
 # AIM:
 To design and develop a Product Card for an E-Commerce Website using HTML and CSS with hover animation effects such as card movement, shadow enhancement, image zooming, and button color change.
@@ -165,4 +165,4 @@ Change the button background color during hover, Save the file and execute it in
 
 
 # RESULT:
-The program for designing book front cover page using HTML and CSS is completed successfully.
+Thus, a Product Card with Hover Effect was successfully designed and implemented using HTML and CSS.
